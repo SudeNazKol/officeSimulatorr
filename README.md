@@ -15,3 +15,4 @@ Sıradaki bölüme geçmek için : Enter
 ![GitHub Rehberi](https://github.com/SudeNazKol/officeSimulatorr/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(266).png)
 ![GitHub Rehberi](https://github.com/SudeNazKol/officeSimulatorr/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(267).png)
 ![GitHub Rehberi](https://github.com/SudeNazKol/officeSimulatorr/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(269).png)
+[Oyunun Videosu]([URL](https://www.youtube.com/watch?v=NnZRePABvWY))
